@@ -285,7 +285,7 @@
 			</plugin>
 			<plugin>
 				<artifactId>maven-clean-plugin</artifactId>
-				<version>2.6</version>
+				<version>2.6.1</version>
 				<configuration>
 					<filesets>
 						<fileset>
@@ -433,7 +433,7 @@
 					<!-- Clean -->
 					<plugin>
 						<artifactId>maven-clean-plugin</artifactId>
-						<version>2.6</version>
+						<version>2.6.1</version>
 						<configuration>
 							<filesets>								
 								<fileset>
